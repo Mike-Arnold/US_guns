@@ -1,0 +1,201 @@
+"State","Gender","Injury.Intent","Deaths","Population","Rate","ST","HFR"
+"Alabama","Female","Suicide",1015,15429919,6.57812915284909,"AL",0.528
+"Alabama","Female","Homicide",683,15429919,4.42646523290239,"AL",0.528
+"Alabama","Male","Suicide",3941,14505310,27.1693607375506,"AL",0.528
+"Alabama","Male","Homicide",3297,14505310,22.7296072955352,"AL",0.528
+"Alaska","Female","Suicide",253,2096779,12.06612618688,"AK",0.572
+"Alaska","Female","Homicide",119,2096779,5.67537160568663,"AK",0.572
+"Alaska","Male","Suicide",971,2303024,42.1619574958837,"AK",0.572
+"Alaska","Male","Homicide",256,2303024,11.1158198959281,"AK",0.572
+"Arizona","Male","Suicide",6996,21889039,31.961202134091,"AZ",0.36
+"Arizona","Female","Suicide",1808,22049582,8.19970192632223,"AZ",0.36
+"Arizona","Female","Homicide",627,22049582,2.84359132068807,"AZ",0.36
+"Arizona","Male","Homicide",2454,21889039,11.2110906285105,"AZ",0.36
+"Arkansas","Female","Suicide",671,9240304,7.26166584995472,"AR",0.518
+"Arkansas","Female","Homicide",423,9240304,4.57777146725909,"AR",0.518
+"Arkansas","Male","Suicide",2805,8961107,31.3019362451536,"AR",0.518
+"Arkansas","Male","Homicide",1487,8961107,16.5939319773773,"AR",0.518
+"California","Female","Suicide",5631,118185938,4.76452621630841,"CA",0.163
+"California","Female","Homicide",2130,118185938,1.80224486605166,"CA",0.163
+"California","Male","Suicide",20100,117483779,17.108744859152,"CA",0.163
+"California","Male","Homicide",10693,117483779,9.10168202880161,"CA",0.163
+"Colorado","Male","Homicide",1536,17580504,8.73695088604968,"CO",0.379
+"Colorado","Female","Suicide",1782,17211120,10.3537712827521,"CO",0.379
+"Colorado","Female","Homicide",466,17211120,2.70755186181957,"CO",0.379
+"Colorado","Male","Suicide",6088,17580504,34.6292688764782,"CO",0.379
+"Connecticut","Female","Suicide",574,11006425,5.21513570482695,"CT",0.188
+"Connecticut","Female","Homicide",170,11006425,1.54455238644701,"CT",0.188
+"Connecticut","Male","Suicide",1799,10537511,17.0723427951819,"CT",0.188
+"Connecticut","Male","Homicide",640,10537511,6.07354051635154,"CT",0.188
+"Delaware","Female","Suicide",146,3084950,4.73265368968703,"DE",0.387
+"Delaware","Female","Homicide",86,3084950,2.78772751584304,"DE",0.387
+"Delaware","Male","Suicide",613,2896464,21.1637361969629,"DE",0.387
+"Delaware","Male","Homicide",332,2896464,11.462251904391,"DE",0.387
+"Florida","Female","Suicide",4653,66853446,6.96000023693618,"FL",0.288
+"Florida","Female","Homicide",1816,66853446,2.71638951864949,"FL",0.288
+"Florida","Male","Suicide",15931,64293605,24.7785141306044,"FL",0.288
+"Florida","Male","Homicide",6665,64293605,10.3665053468381,"FL",0.288
+"Georgia","Female","Suicide",1992,33135770,6.01163033181363,"GA",0.377
+"Georgia","Female","Homicide",1197,33135770,3.61241039517114,"GA",0.377
+"Georgia","Male","Suicide",7623,31452814,24.2363052158068,"GA",0.377
+"Georgia","Male","Homicide",5035,31452814,16.0081066196494,"GA",0.377
+"Hawaii","Female","Suicide",301,4267009,7.05412151696891,"HI",0.091
+"Hawaii","Female","Homicide",62,4267009,1.45300841877765,"HI",0.091
+"Hawaii","Male","Suicide",954,4293247,22.2209437286045,"HI",0.091
+"Hawaii","Male","Homicide",182,4293247,4.23921567988052,"HI",0.091
+"Idaho","Female","Suicide",508,5557525,9.14075960072154,"ID",0.578
+"Idaho","Female","Homicide",72,5557525,1.29554073081093,"ID",0.578
+"Idaho","Male","Suicide",1984,5615343,35.3317686916008,"ID",0.578
+"Idaho","Male","Homicide",177,5615343,3.15207815444221,"ID",0.578
+"Illinois","Female","Suicide",1938,38435957,5.04215362713617,"IL",0.226
+"Illinois","Female","Homicide",1140,38435957,2.96597272184481,"IL",0.226
+"Illinois","Male","Suicide",6905,37367664,18.4785433737576,"IL",0.226
+"Illinois","Male","Homicide",6156,37367664,16.4741365689865,"IL",0.226
+"Indiana","Female","Suicide",1232,20550021,5.99512769354348,"IN",0.424
+"Indiana","Female","Homicide",707,20550021,3.4403857786812,"IN",0.424
+"Indiana","Male","Suicide",5311,20130250,26.3831795432247,"IN",0.424
+"Indiana","Male","Homicide",2552,20130250,12.6774381838278,"IN",0.424
+"Iowa","Female","Suicide",578,9541634,6.05766266029487,"IA",0.385
+"Iowa","Female","Homicide",148,9541634,1.5510970133627,"IA",0.385
+"Iowa","Male","Suicide",2635,9533742,27.6386753490917,"IA",0.385
+"Iowa","Male","Homicide",404,9533742,4.23758058483227,"IA",0.385
+"Kansas","Female","Suicide",660,8776675,7.51993209273444,"KS",0.423
+"Kansas","Female","Homicide",237,8776675,2.70033925148191,"KS",0.423
+"Kansas","Male","Suicide",2675,8774227,30.4870161211922,"KS",0.423
+"Kansas","Male","Homicide",782,8774227,8.91246602122329,"KS",0.423
+"Kentucky","Female","Suicide",850,13635766,6.23360653152892,"KY",0.525
+"Kentucky","Female","Homicide",453,13635766,3.32214559856777,"KY",0.525
+"Kentucky","Male","Suicide",3959,13325418,29.7101374230812,"KY",0.525
+"Kentucky","Male","Homicide",1531,13325418,11.4893206351951,"KY",0.525
+"Louisiana","Female","Suicide",835,14188699,5.88496521069338,"LA",0.523
+"Louisiana","Female","Homicide",799,14188699,5.63124215969343,"LA",0.523
+"Louisiana","Male","Suicide",3365,13553428,24.8276672145231,"LA",0.523
+"Louisiana","Male","Homicide",3964,13553428,29.2472133249241,"LA",0.523
+"Maine","Female","Suicide",313,4164000,7.51681075888569,"ME",0.477
+"Maine","Female","Homicide",62,4164000,1.48895292987512,"ME",0.477
+"Maine","Male","Suicide",1286,4022066,31.973617538847,"ME",0.477
+"Maine","Male","Homicide",101,4022066,2.51114725616139,"ME",0.477
+"Maryland","Female","Suicide",789,18855146,4.18453402588344,"MD",0.167
+"Maryland","Female","Homicide",549,18855146,2.91167196477821,"MD",0.167
+"Maryland","Male","Suicide",2930,17799096,16.4615101800676,"MD",0.167
+"Maryland","Male","Homicide",3168,17799096,17.7986567407693,"MD",0.167
+"Massachusetts","Female","Suicide",923,21362717,4.32061146529255,"MA",0.09
+"Massachusetts","Female","Homicide",207,21362717,0.968977869247624,"MA",0.09
+"Massachusetts","Male","Suicide",2970,20293605,14.6351523053691,"MA",0.09
+"Massachusetts","Male","Homicide",804,20293605,3.9618392099383,"MA",0.09
+"Michigan","Female","Suicide",1837,30386364,6.04547487155752,"MI",0.389
+"Michigan","Female","Homicide",893,30386364,2.93881821464391,"MI",0.389
+"Michigan","Male","Suicide",7144,29685148,24.0659066277857,"MI",0.389
+"Michigan","Male","Homicide",3403,29685148,11.4636450524013,"MI",0.389
+"Minnesota","Female","Suicide",999,17040432,5.86252742888208,"MN",0.391
+"Minnesota","Female","Homicide",260,17040432,1.52578291442377,"MN",0.391
+"Minnesota","Male","Suicide",3808,17030210,22.3602644946833,"MN",0.391
+"Minnesota","Male","Homicide",850,17030210,4.99113046756323,"MN",0.391
+"Mississippi","Female","Suicide",496,9143505,5.4246156151279,"MS",0.541
+"Mississippi","Female","Homicide",565,9143505,6.17924964223238,"MS",0.541
+"Mississippi","Male","Suicide",2125,8615672,24.6643558389874,"MS",0.541
+"Mississippi","Male","Homicide",2602,8615672,30.2007783026095,"MS",0.541
+"Missouri","Female","Suicide",1336,18762702,7.12050961529954,"MO",0.528
+"Missouri","Female","Homicide",861,18762702,4.58889130147673,"MO",0.528
+"Missouri","Male","Suicide",5699,18195026,31.3217469433679,"MO",0.528
+"Missouri","Male","Homicide",3300,18195026,18.1368248663124,"MO",0.528
+"Montana","Female","Suicide",376,3251534,11.5637726685312,"MT",0.65
+"Montana","Female","Homicide",95,3251534,2.92169788167677,"MT",0.65
+"Montana","Male","Suicide",1467,3320076,44.1857355072595,"MT",0.65
+"Montana","Male","Homicide",204,3320076,6.14443765745122,"MT",0.65
+"Nebraska","Female","Suicide",313,5841362,5.3583393735913,"NE",0.392
+"Nebraska","Female","Homicide",95,5841362,1.62633303671301,"NE",0.392
+"Nebraska","Male","Suicide",1428,5869860,24.3276670993857,"NE",0.392
+"Nebraska","Male","Homicide",281,5869860,4.78716698524326,"NE",0.392
+"Nevada","Female","Suicide",892,9333919,9.55654318405806,"NV",0.329
+"Nevada","Female","Homicide",309,9333919,3.31050655142818,"NV",0.329
+"Nevada","Male","Suicide",3089,9434827,32.7403989495515,"NV",0.329
+"Nevada","Male","Homicide",1065,9434827,11.2879653225226,"NV",0.329
+"New Hampshire","Female","Suicide",298,4155034,7.17202314108621,"NH",0.463
+"New Hampshire","Female","Homicide",57,4155034,1.37182992967085,"NH",0.463
+"New Hampshire","Male","Suicide",1161,4113687,28.2228570136717,"NH",0.463
+"New Hampshire","Male","Homicide",85,4113687,2.06627290797769,"NH",0.463
+"New Jersey","Female","Suicide",996,27757653,3.58819962192048,"NJ",0.089
+"New Jersey","Female","Homicide",385,27757653,1.38700487393513,"NJ",0.089
+"New Jersey","Male","Suicide",3389,26735098,12.6762205996028,"NJ",0.089
+"New Jersey","Male","Homicide",1609,26735098,6.01830597366802,"NJ",0.089
+"New Mexico","Female","Suicide",639,6368088,10.0344090722364,"NM",0.359
+"New Mexico","Female","Homicide",332,6368088,5.21349579339984,"NM",0.359
+"New Mexico","Male","Suicide",2473,6274080,39.4161375054191,"NM",0.359
+"New Mexico","Male","Homicide",1215,6274080,19.3653890291485,"NM",0.359
+"New York","Female","Suicide",2317,60212920,3.84801135703102,"NY",0.145
+"New York","Female","Homicide",849,60212920,1.40999639280075,"NY",0.145
+"New York","Male","Suicide",7895,57203906,13.8015050930263,"NY",0.145
+"New York","Male","Homicide",3754,57203906,6.56248893213691,"NY",0.145
+"North Carolina","Female","Suicide",1879,32561840,5.77055842053152,"NC",0.371
+"North Carolina","Female","Homicide",987,32561840,3.03115548752773,"NC",0.371
+"North Carolina","Male","Suicide",7073,30996313,22.8188430023919,"NC",0.371
+"North Carolina","Male","Homicide",4083,30996313,13.172534423691,"NC",0.371
+"North Dakota","Female","Suicide",169,2253426,7.49969158073085,"ND",0.533
+"North Dakota","Female","Homicide",39,2253426,1.73069805709174,"ND",0.533
+"North Dakota","Male","Suicide",716,2372157,30.1834996587494,"ND",0.533
+"North Dakota","Male","Homicide",108,2372157,4.55281838428064,"ND",0.533
+"Ohio","Female","Suicide",2074,35765297,5.79891731361828,"OH",0.419
+"Ohio","Female","Homicide",1094,35765297,3.05883102270897,"OH",0.419
+"Ohio","Male","Suicide",8570,34628472,24.7484208948059,"OH",0.419
+"Ohio","Male","Homicide",4212,34628472,12.1634012612511,"OH",0.419
+"Oklahoma","Female","Suicide",1011,12050671,8.38957432328872,"OK",0.549
+"Oklahoma","Female","Homicide",430,12050671,3.56826603265494,"OK",0.549
+"Oklahoma","Male","Suicide",4091,11890425,34.4058349470267,"OK",0.549
+"Oklahoma","Male","Homicide",1462,11890425,12.295607600233,"OK",0.549
+"Oregon","Female","Suicide",1193,12756704,9.35194545550324,"OR",0.414
+"Oregon","Female","Homicide",237,12756704,1.85784666634893,"OR",0.414
+"Oregon","Male","Suicide",4050,12612903,32.1099749994113,"OR",0.414
+"Oregon","Male","Homicide",752,12612903,5.96214844433514,"OR",0.414
+"Pennsylvania","Female","Suicide",2284,39278983,5.81481450270747,"PA",0.402
+"Pennsylvania","Female","Homicide",1007,39278983,2.56371199834782,"PA",0.402
+"Pennsylvania","Male","Suicide",9136,38011067,24.0351053549746,"PA",0.402
+"Pennsylvania","Male","Homicide",4573,38011067,12.0307067412762,"PA",0.402
+"Rhode Island","Female","Suicide",169,3302993,5.11657154586764,"RI",0.139
+"Rhode Island","Female","Homicide",38,3302993,1.15047170853829,"RI",0.139
+"Rhode Island","Male","Suicide",509,3156114,16.1274275897512,"RI",0.139
+"Rhode Island","Male","Homicide",122,3156114,3.86551309616826,"RI",0.139
+"South Carolina","Female","Suicide",1022,16111027,6.34348139320976,"SC",0.45
+"South Carolina","Female","Homicide",673,16111027,4.17726318750505,"SC",0.45
+"South Carolina","Male","Suicide",3982,15186748,26.2202283201117,"SC",0.45
+"South Carolina","Male","Homicide",2773,15186748,18.2593403143319,"SC",0.45
+"South Dakota","Female","Suicide",248,2656220,9.33657603662347,"SD",0.55
+"South Dakota","Female","Homicide",61,2656220,2.29649652513723,"SD",0.55
+"South Dakota","Male","Suicide",863,2727909,31.6359526655765,"SD",0.55
+"South Dakota","Male","Homicide",191,2727909,7.00169983676142,"SD",0.55
+"Tennessee","Female","Suicide",1546,21268407,7.26899762638546,"TN",0.469
+"Tennessee","Female","Homicide",853,21268407,4.01064358040543,"TN",0.469
+"Tennessee","Male","Suicide",5800,20370657,28.4723266412075,"TN",0.469
+"Tennessee","Male","Homicide",3425,20370657,16.8133997838165,"TN",0.469
+"Texas","Female","Suicide",5052,88903928,5.68253857129912,"TX",0.355
+"Texas","Female","Homicide",2575,88903928,2.89638496062851,"TX",0.355
+"Texas","Male","Suicide",19636,88215371,22.259159347638,"TX",0.355
+"Texas","Male","Homicide",9719,88215371,11.0173543338609,"TX",0.355
+"Utah","Female","Suicide",868,9770162,8.88419250366575,"UT",0.397
+"Utah","Female","Homicide",123,9770162,1.25893511284664,"UT",0.397
+"Utah","Male","Suicide",3169,9983289,31.7430458038428,"UT",0.397
+"Utah","Male","Homicide",360,9983289,3.6060260300989,"UT",0.397
+"Vermont","Female","Suicide",156,1923862,8.1086897085134,"VT",0.503
+"Vermont","Female","Homicide",26,1923862,1.35144828475223,"VT",0.503
+"Vermont","Male","Suicide",591,1889871,31.2719757062784,"VT",0.503
+"Vermont","Male","Homicide",62,1889871,3.28064719761296,"VT",0.503
+"Virginia","Female","Suicide",1552,26184606,5.92714666014069,"VA",0.353
+"Virginia","Female","Homicide",646,26184606,2.46709841652763,"VA",0.353
+"Virginia","Male","Suicide",5672,25500752,22.2424813197666,"VA",0.353
+"Virginia","Male","Homicide",2581,25500752,10.1212701492097,"VA",0.353
+"Washington","Female","Suicide",1651,22985351,7.18283571131892,"WA",0.321
+"Washington","Female","Homicide",483,22985351,2.1013383698165,"WA",0.321
+"Washington","Male","Suicide",5835,23196103,25.1550874730984,"WA",0.321
+"Washington","Male","Homicide",1539,23196103,6.634735153573,"WA",0.321
+"West Virginia","Female","Suicide",414,5385529,7.68726711897754,"WV",0.6
+"West Virginia","Female","Homicide",162,5385529,3.00806104655643,"WV",0.6
+"West Virginia","Male","Suicide",1742,5325423,32.7110165708902,"WV",0.6
+"West Virginia","Male","Homicide",448,5325423,8.41247728114743,"WV",0.6
+"Wisconsin","Female","Suicide",1083,17606165,6.15125440435211,"WI",0.471
+"Wisconsin","Female","Homicide",416,17606165,2.36280870933562,"WI",0.471
+"Wisconsin","Male","Suicide",4265,17561894,24.2855354895093,"WI",0.471
+"Wisconsin","Male","Homicide",1307,17561894,7.44224967990355,"WI",0.471
+"Wyoming","Female","Suicide",171,1703717,10.0368781904506,"WY",0.607
+"Wyoming","Female","Homicide",43,1703717,2.52389334613671,"WY",0.607
+"Wyoming","Male","Suicide",830,1779348,46.646299655829,"WY",0.607
+"Wyoming","Male","Homicide",80,1779348,4.49602888248954,"WY",0.607
