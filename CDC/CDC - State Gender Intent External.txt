@@ -1,0 +1,566 @@
+"Notes"	"State"	"State Code"	"Gender"	"Gender Code"	"Injury Intent"	"Injury Intent Code"	Deaths	Population	Crude Rate
+	"Alabama"	"01"	"Female"	"F"	"Unintentional"	"1"	6231	15429919	40.4
+	"Alabama"	"01"	"Female"	"F"	"Suicide"	"2"	1015	15429919	6.6
+	"Alabama"	"01"	"Female"	"F"	"Homicide"	"3"	683	15429919	4.4
+	"Alabama"	"01"	"Female"	"F"	"Undetermined "	"4"	144	15429919	0.9
+	"Alabama"	"01"	"Female"	"F"	"Legal Intervention / Operations of War"	"5"	Suppressed	15429919	Suppressed
+	"Alabama"	"01"	"Male"	"M"	"Unintentional"	"1"	12846	14505310	88.6
+	"Alabama"	"01"	"Male"	"M"	"Suicide"	"2"	3941	14505310	27.2
+	"Alabama"	"01"	"Male"	"M"	"Homicide"	"3"	3297	14505310	22.7
+	"Alabama"	"01"	"Male"	"M"	"Undetermined "	"4"	262	14505310	1.8
+	"Alabama"	"01"	"Male"	"M"	"Legal Intervention / Operations of War"	"5"	57	14505310	0.4
+	"Alaska"	"02"	"Female"	"F"	"Unintentional"	"1"	1061	2096779	50.6
+	"Alaska"	"02"	"Female"	"F"	"Suicide"	"2"	253	2096779	12.1
+	"Alaska"	"02"	"Female"	"F"	"Homicide"	"3"	119	2096779	5.7
+	"Alaska"	"02"	"Female"	"F"	"Undetermined "	"4"	86	2096779	4.1
+	"Alaska"	"02"	"Female"	"F"	"Legal Intervention / Operations of War"	"5"	0	2096779	Unreliable
+	"Alaska"	"02"	"Male"	"M"	"Unintentional"	"1"	2072	2303024	90.0
+	"Alaska"	"02"	"Male"	"M"	"Suicide"	"2"	971	2303024	42.2
+	"Alaska"	"02"	"Male"	"M"	"Homicide"	"3"	256	2303024	11.1
+	"Alaska"	"02"	"Male"	"M"	"Undetermined "	"4"	116	2303024	5.0
+	"Alaska"	"02"	"Male"	"M"	"Legal Intervention / Operations of War"	"5"	20	2303024	0.9
+	"Arizona"	"04"	"Female"	"F"	"Unintentional"	"1"	10275	22049582	46.6
+	"Arizona"	"04"	"Female"	"F"	"Suicide"	"2"	1808	22049582	8.2
+	"Arizona"	"04"	"Female"	"F"	"Homicide"	"3"	627	22049582	2.8
+	"Arizona"	"04"	"Female"	"F"	"Undetermined "	"4"	355	22049582	1.6
+	"Arizona"	"04"	"Female"	"F"	"Legal Intervention / Operations of War"	"5"	Suppressed	22049582	Suppressed
+	"Arizona"	"04"	"Male"	"M"	"Unintentional"	"1"	21927	21889039	100.2
+	"Arizona"	"04"	"Male"	"M"	"Suicide"	"2"	6996	21889039	32.0
+	"Arizona"	"04"	"Male"	"M"	"Homicide"	"3"	2454	21889039	11.2
+	"Arizona"	"04"	"Male"	"M"	"Undetermined "	"4"	628	21889039	2.9
+	"Arizona"	"04"	"Male"	"M"	"Legal Intervention / Operations of War"	"5"	159	21889039	0.7
+	"Arkansas"	"05"	"Female"	"F"	"Unintentional"	"1"	3808	9240304	41.2
+	"Arkansas"	"05"	"Female"	"F"	"Suicide"	"2"	671	9240304	7.3
+	"Arkansas"	"05"	"Female"	"F"	"Homicide"	"3"	423	9240304	4.6
+	"Arkansas"	"05"	"Female"	"F"	"Undetermined "	"4"	175	9240304	1.9
+	"Arkansas"	"05"	"Female"	"F"	"Legal Intervention / Operations of War"	"5"	Suppressed	9240304	Suppressed
+	"Arkansas"	"05"	"Male"	"M"	"Unintentional"	"1"	7124	8961107	79.5
+	"Arkansas"	"05"	"Male"	"M"	"Suicide"	"2"	2805	8961107	31.3
+	"Arkansas"	"05"	"Male"	"M"	"Homicide"	"3"	1487	8961107	16.6
+	"Arkansas"	"05"	"Male"	"M"	"Undetermined "	"4"	221	8961107	2.5
+	"Arkansas"	"05"	"Male"	"M"	"Legal Intervention / Operations of War"	"5"	66	8961107	0.7
+	"California"	"06"	"Female"	"F"	"Unintentional"	"1"	31629	118185938	26.8
+	"California"	"06"	"Female"	"F"	"Suicide"	"2"	5631	118185938	4.8
+	"California"	"06"	"Female"	"F"	"Homicide"	"3"	2130	118185938	1.8
+	"California"	"06"	"Female"	"F"	"Undetermined "	"4"	521	118185938	0.4
+	"California"	"06"	"Female"	"F"	"Legal Intervention / Operations of War"	"5"	37	118185938	0.0
+	"California"	"06"	"Male"	"M"	"Unintentional"	"1"	79256	117483779	67.5
+	"California"	"06"	"Male"	"M"	"Suicide"	"2"	20100	117483779	17.1
+	"California"	"06"	"Male"	"M"	"Homicide"	"3"	10693	117483779	9.1
+	"California"	"06"	"Male"	"M"	"Undetermined "	"4"	996	117483779	0.8
+	"California"	"06"	"Male"	"M"	"Legal Intervention / Operations of War"	"5"	531	117483779	0.5
+	"Colorado"	"08"	"Female"	"F"	"Unintentional"	"1"	7979	17211120	46.4
+	"Colorado"	"08"	"Female"	"F"	"Suicide"	"2"	1782	17211120	10.4
+	"Colorado"	"08"	"Female"	"F"	"Homicide"	"3"	466	17211120	2.7
+	"Colorado"	"08"	"Female"	"F"	"Undetermined "	"4"	129	17211120	0.7
+	"Colorado"	"08"	"Female"	"F"	"Legal Intervention / Operations of War"	"5"	11	17211120	Unreliable
+	"Colorado"	"08"	"Male"	"M"	"Unintentional"	"1"	14459	17580504	82.2
+	"Colorado"	"08"	"Male"	"M"	"Suicide"	"2"	6088	17580504	34.6
+	"Colorado"	"08"	"Male"	"M"	"Homicide"	"3"	1536	17580504	8.7
+	"Colorado"	"08"	"Male"	"M"	"Undetermined "	"4"	260	17580504	1.5
+	"Colorado"	"08"	"Male"	"M"	"Legal Intervention / Operations of War"	"5"	151	17580504	0.9
+	"Connecticut"	"09"	"Female"	"F"	"Unintentional"	"1"	4398	11006425	40.0
+	"Connecticut"	"09"	"Female"	"F"	"Suicide"	"2"	574	11006425	5.2
+	"Connecticut"	"09"	"Female"	"F"	"Homicide"	"3"	170	11006425	1.5
+	"Connecticut"	"09"	"Female"	"F"	"Undetermined "	"4"	48	11006425	0.4
+	"Connecticut"	"09"	"Female"	"F"	"Legal Intervention / Operations of War"	"5"	0	11006425	Unreliable
+	"Connecticut"	"09"	"Male"	"M"	"Unintentional"	"1"	9841	10537511	93.4
+	"Connecticut"	"09"	"Male"	"M"	"Suicide"	"2"	1799	10537511	17.1
+	"Connecticut"	"09"	"Male"	"M"	"Homicide"	"3"	640	10537511	6.1
+	"Connecticut"	"09"	"Male"	"M"	"Undetermined "	"4"	136	10537511	1.3
+	"Connecticut"	"09"	"Male"	"M"	"Legal Intervention / Operations of War"	"5"	30	10537511	0.3
+	"Delaware"	"10"	"Female"	"F"	"Unintentional"	"1"	1539	3084950	49.9
+	"Delaware"	"10"	"Female"	"F"	"Suicide"	"2"	146	3084950	4.7
+	"Delaware"	"10"	"Female"	"F"	"Homicide"	"3"	86	3084950	2.8
+	"Delaware"	"10"	"Female"	"F"	"Undetermined "	"4"	34	3084950	1.1
+	"Delaware"	"10"	"Female"	"F"	"Legal Intervention / Operations of War"	"5"	Suppressed	3084950	Suppressed
+	"Delaware"	"10"	"Male"	"M"	"Unintentional"	"1"	3140	2896464	108.4
+	"Delaware"	"10"	"Male"	"M"	"Suicide"	"2"	613	2896464	21.2
+	"Delaware"	"10"	"Male"	"M"	"Homicide"	"3"	332	2896464	11.5
+	"Delaware"	"10"	"Male"	"M"	"Undetermined "	"4"	54	2896464	1.9
+	"Delaware"	"10"	"Male"	"M"	"Legal Intervention / Operations of War"	"5"	10	2896464	Unreliable
+	"District of Columbia"	"11"	"Female"	"F"	"Unintentional"	"1"	1020	2175594	46.9
+	"District of Columbia"	"11"	"Female"	"F"	"Suicide"	"2"	71	2175594	3.3
+	"District of Columbia"	"11"	"Female"	"F"	"Homicide"	"3"	135	2175594	6.2
+	"District of Columbia"	"11"	"Female"	"F"	"Undetermined "	"4"	36	2175594	1.7
+	"District of Columbia"	"11"	"Female"	"F"	"Legal Intervention / Operations of War"	"5"	Suppressed	2175594	Suppressed
+	"District of Columbia"	"11"	"Male"	"M"	"Unintentional"	"1"	2243	1966251	114.1
+	"District of Columbia"	"11"	"Male"	"M"	"Suicide"	"2"	196	1966251	10.0
+	"District of Columbia"	"11"	"Male"	"M"	"Homicide"	"3"	994	1966251	50.6
+	"District of Columbia"	"11"	"Male"	"M"	"Undetermined "	"4"	116	1966251	5.9
+	"District of Columbia"	"11"	"Male"	"M"	"Legal Intervention / Operations of War"	"5"	Suppressed	1966251	Suppressed
+	"Florida"	"12"	"Female"	"F"	"Unintentional"	"1"	31870	66853446	47.7
+	"Florida"	"12"	"Female"	"F"	"Suicide"	"2"	4653	66853446	7.0
+	"Florida"	"12"	"Female"	"F"	"Homicide"	"3"	1816	66853446	2.7
+	"Florida"	"12"	"Female"	"F"	"Undetermined "	"4"	368	66853446	0.6
+	"Florida"	"12"	"Female"	"F"	"Legal Intervention / Operations of War"	"5"	13	66853446	Unreliable
+	"Florida"	"12"	"Male"	"M"	"Unintentional"	"1"	61992	64293605	96.4
+	"Florida"	"12"	"Male"	"M"	"Suicide"	"2"	15931	64293605	24.8
+	"Florida"	"12"	"Male"	"M"	"Homicide"	"3"	6665	64293605	10.4
+	"Florida"	"12"	"Male"	"M"	"Undetermined "	"4"	674	64293605	1.0
+	"Florida"	"12"	"Male"	"M"	"Legal Intervention / Operations of War"	"5"	244	64293605	0.4
+	"Georgia"	"13"	"Female"	"F"	"Unintentional"	"1"	11433	33135770	34.5
+	"Georgia"	"13"	"Female"	"F"	"Suicide"	"2"	1992	33135770	6.0
+	"Georgia"	"13"	"Female"	"F"	"Homicide"	"3"	1197	33135770	3.6
+	"Georgia"	"13"	"Female"	"F"	"Undetermined "	"4"	234	33135770	0.7
+	"Georgia"	"13"	"Female"	"F"	"Legal Intervention / Operations of War"	"5"	14	33135770	Unreliable
+	"Georgia"	"13"	"Male"	"M"	"Unintentional"	"1"	22274	31452814	70.8
+	"Georgia"	"13"	"Male"	"M"	"Suicide"	"2"	7623	31452814	24.2
+	"Georgia"	"13"	"Male"	"M"	"Homicide"	"3"	5035	31452814	16.0
+	"Georgia"	"13"	"Male"	"M"	"Undetermined "	"4"	347	31452814	1.1
+	"Georgia"	"13"	"Male"	"M"	"Legal Intervention / Operations of War"	"5"	181	31452814	0.6
+	"Hawaii"	"15"	"Female"	"F"	"Unintentional"	"1"	1222	4267009	28.6
+	"Hawaii"	"15"	"Female"	"F"	"Suicide"	"2"	301	4267009	7.1
+	"Hawaii"	"15"	"Female"	"F"	"Homicide"	"3"	62	4267009	1.5
+	"Hawaii"	"15"	"Female"	"F"	"Undetermined "	"4"	37	4267009	0.9
+	"Hawaii"	"15"	"Female"	"F"	"Legal Intervention / Operations of War"	"5"	0	4267009	Unreliable
+	"Hawaii"	"15"	"Male"	"M"	"Unintentional"	"1"	2866	4293247	66.8
+	"Hawaii"	"15"	"Male"	"M"	"Suicide"	"2"	954	4293247	22.2
+	"Hawaii"	"15"	"Male"	"M"	"Homicide"	"3"	182	4293247	4.2
+	"Hawaii"	"15"	"Male"	"M"	"Undetermined "	"4"	96	4293247	2.2
+	"Hawaii"	"15"	"Male"	"M"	"Legal Intervention / Operations of War"	"5"	21	4293247	0.5
+	"Idaho"	"16"	"Female"	"F"	"Unintentional"	"1"	2380	5557525	42.8
+	"Idaho"	"16"	"Female"	"F"	"Suicide"	"2"	508	5557525	9.1
+	"Idaho"	"16"	"Female"	"F"	"Homicide"	"3"	72	5557525	1.3
+	"Idaho"	"16"	"Female"	"F"	"Undetermined "	"4"	55	5557525	1.0
+	"Idaho"	"16"	"Female"	"F"	"Legal Intervention / Operations of War"	"5"	Suppressed	5557525	Suppressed
+	"Idaho"	"16"	"Male"	"M"	"Unintentional"	"1"	3988	5615343	71.0
+	"Idaho"	"16"	"Male"	"M"	"Suicide"	"2"	1984	5615343	35.3
+	"Idaho"	"16"	"Male"	"M"	"Homicide"	"3"	177	5615343	3.2
+	"Idaho"	"16"	"Male"	"M"	"Undetermined "	"4"	97	5615343	1.7
+	"Idaho"	"16"	"Male"	"M"	"Legal Intervention / Operations of War"	"5"	54	5615343	1.0
+	"Illinois"	"17"	"Female"	"F"	"Unintentional"	"1"	13501	38435957	35.1
+	"Illinois"	"17"	"Female"	"F"	"Suicide"	"2"	1938	38435957	5.0
+	"Illinois"	"17"	"Female"	"F"	"Homicide"	"3"	1140	38435957	3.0
+	"Illinois"	"17"	"Female"	"F"	"Undetermined "	"4"	262	38435957	0.7
+	"Illinois"	"17"	"Female"	"F"	"Legal Intervention / Operations of War"	"5"	Suppressed	38435957	Suppressed
+	"Illinois"	"17"	"Male"	"M"	"Unintentional"	"1"	28291	37367664	75.7
+	"Illinois"	"17"	"Male"	"M"	"Suicide"	"2"	6905	37367664	18.5
+	"Illinois"	"17"	"Male"	"M"	"Homicide"	"3"	6156	37367664	16.5
+	"Illinois"	"17"	"Male"	"M"	"Undetermined "	"4"	551	37367664	1.5
+	"Illinois"	"17"	"Male"	"M"	"Legal Intervention / Operations of War"	"5"	79	37367664	0.2
+	"Indiana"	"18"	"Female"	"F"	"Unintentional"	"1"	9358	20550021	45.5
+	"Indiana"	"18"	"Female"	"F"	"Suicide"	"2"	1232	20550021	6.0
+	"Indiana"	"18"	"Female"	"F"	"Homicide"	"3"	707	20550021	3.4
+	"Indiana"	"18"	"Female"	"F"	"Undetermined "	"4"	404	20550021	2.0
+	"Indiana"	"18"	"Female"	"F"	"Legal Intervention / Operations of War"	"5"	Suppressed	20550021	Suppressed
+	"Indiana"	"18"	"Male"	"M"	"Unintentional"	"1"	17675	20130250	87.8
+	"Indiana"	"18"	"Male"	"M"	"Suicide"	"2"	5311	20130250	26.4
+	"Indiana"	"18"	"Male"	"M"	"Homicide"	"3"	2552	20130250	12.7
+	"Indiana"	"18"	"Male"	"M"	"Undetermined "	"4"	717	20130250	3.6
+	"Indiana"	"18"	"Male"	"M"	"Legal Intervention / Operations of War"	"5"	105	20130250	0.5
+	"Iowa"	"19"	"Female"	"F"	"Unintentional"	"1"	3850	9541634	40.3
+	"Iowa"	"19"	"Female"	"F"	"Suicide"	"2"	578	9541634	6.1
+	"Iowa"	"19"	"Female"	"F"	"Homicide"	"3"	148	9541634	1.6
+	"Iowa"	"19"	"Female"	"F"	"Undetermined "	"4"	96	9541634	1.0
+	"Iowa"	"19"	"Female"	"F"	"Legal Intervention / Operations of War"	"5"	Suppressed	9541634	Suppressed
+	"Iowa"	"19"	"Male"	"M"	"Unintentional"	"1"	6260	9533742	65.7
+	"Iowa"	"19"	"Male"	"M"	"Suicide"	"2"	2635	9533742	27.6
+	"Iowa"	"19"	"Male"	"M"	"Homicide"	"3"	404	9533742	4.2
+	"Iowa"	"19"	"Male"	"M"	"Undetermined "	"4"	154	9533742	1.6
+	"Iowa"	"19"	"Male"	"M"	"Legal Intervention / Operations of War"	"5"	12	9533742	Unreliable
+	"Kansas"	"20"	"Female"	"F"	"Unintentional"	"1"	3889	8776675	44.3
+	"Kansas"	"20"	"Female"	"F"	"Suicide"	"2"	660	8776675	7.5
+	"Kansas"	"20"	"Female"	"F"	"Homicide"	"3"	237	8776675	2.7
+	"Kansas"	"20"	"Female"	"F"	"Undetermined "	"4"	100	8776675	1.1
+	"Kansas"	"20"	"Female"	"F"	"Legal Intervention / Operations of War"	"5"	Suppressed	8776675	Suppressed
+	"Kansas"	"20"	"Male"	"M"	"Unintentional"	"1"	6599	8774227	75.2
+	"Kansas"	"20"	"Male"	"M"	"Suicide"	"2"	2675	8774227	30.5
+	"Kansas"	"20"	"Male"	"M"	"Homicide"	"3"	782	8774227	8.9
+	"Kansas"	"20"	"Male"	"M"	"Undetermined "	"4"	154	8774227	1.8
+	"Kansas"	"20"	"Male"	"M"	"Legal Intervention / Operations of War"	"5"	23	8774227	0.3
+	"Kentucky"	"21"	"Female"	"F"	"Unintentional"	"1"	7976	13635766	58.5
+	"Kentucky"	"21"	"Female"	"F"	"Suicide"	"2"	850	13635766	6.2
+	"Kentucky"	"21"	"Female"	"F"	"Homicide"	"3"	453	13635766	3.3
+	"Kentucky"	"21"	"Female"	"F"	"Undetermined "	"4"	166	13635766	1.2
+	"Kentucky"	"21"	"Female"	"F"	"Legal Intervention / Operations of War"	"5"	Suppressed	13635766	Suppressed
+	"Kentucky"	"21"	"Male"	"M"	"Unintentional"	"1"	14757	13325418	110.7
+	"Kentucky"	"21"	"Male"	"M"	"Suicide"	"2"	3959	13325418	29.7
+	"Kentucky"	"21"	"Male"	"M"	"Homicide"	"3"	1531	13325418	11.5
+	"Kentucky"	"21"	"Male"	"M"	"Undetermined "	"4"	255	13325418	1.9
+	"Kentucky"	"21"	"Male"	"M"	"Legal Intervention / Operations of War"	"5"	73	13325418	0.5
+	"Louisiana"	"22"	"Female"	"F"	"Unintentional"	"1"	7046	14188699	49.7
+	"Louisiana"	"22"	"Female"	"F"	"Suicide"	"2"	835	14188699	5.9
+	"Louisiana"	"22"	"Female"	"F"	"Homicide"	"3"	799	14188699	5.6
+	"Louisiana"	"22"	"Female"	"F"	"Undetermined "	"4"	274	14188699	1.9
+	"Louisiana"	"22"	"Female"	"F"	"Legal Intervention / Operations of War"	"5"	Suppressed	14188699	Suppressed
+	"Louisiana"	"22"	"Male"	"M"	"Unintentional"	"1"	15209	13553428	112.2
+	"Louisiana"	"22"	"Male"	"M"	"Suicide"	"2"	3365	13553428	24.8
+	"Louisiana"	"22"	"Male"	"M"	"Homicide"	"3"	3964	13553428	29.2
+	"Louisiana"	"22"	"Male"	"M"	"Undetermined "	"4"	548	13553428	4.0
+	"Louisiana"	"22"	"Male"	"M"	"Legal Intervention / Operations of War"	"5"	57	13553428	0.4
+	"Maine"	"23"	"Female"	"F"	"Unintentional"	"1"	2599	4164000	62.4
+	"Maine"	"23"	"Female"	"F"	"Suicide"	"2"	313	4164000	7.5
+	"Maine"	"23"	"Female"	"F"	"Homicide"	"3"	62	4164000	1.5
+	"Maine"	"23"	"Female"	"F"	"Undetermined "	"4"	48	4164000	1.2
+	"Maine"	"23"	"Female"	"F"	"Legal Intervention / Operations of War"	"5"	Suppressed	4164000	Suppressed
+	"Maine"	"23"	"Male"	"M"	"Unintentional"	"1"	4558	4022066	113.3
+	"Maine"	"23"	"Male"	"M"	"Suicide"	"2"	1286	4022066	32.0
+	"Maine"	"23"	"Male"	"M"	"Homicide"	"3"	101	4022066	2.5
+	"Maine"	"23"	"Male"	"M"	"Undetermined "	"4"	68	4022066	1.7
+	"Maine"	"23"	"Male"	"M"	"Legal Intervention / Operations of War"	"5"	26	4022066	0.6
+	"Maryland"	"24"	"Female"	"F"	"Unintentional"	"1"	6315	18855146	33.5
+	"Maryland"	"24"	"Female"	"F"	"Suicide"	"2"	789	18855146	4.2
+	"Maryland"	"24"	"Female"	"F"	"Homicide"	"3"	549	18855146	2.9
+	"Maryland"	"24"	"Female"	"F"	"Undetermined "	"4"	2484	18855146	13.2
+	"Maryland"	"24"	"Female"	"F"	"Legal Intervention / Operations of War"	"5"	0	18855146	Unreliable
+	"Maryland"	"24"	"Male"	"M"	"Unintentional"	"1"	11421	17799096	64.2
+	"Maryland"	"24"	"Male"	"M"	"Suicide"	"2"	2930	17799096	16.5
+	"Maryland"	"24"	"Male"	"M"	"Homicide"	"3"	3168	17799096	17.8
+	"Maryland"	"24"	"Male"	"M"	"Undetermined "	"4"	6551	17799096	36.8
+	"Maryland"	"24"	"Male"	"M"	"Legal Intervention / Operations of War"	"5"	54	17799096	0.3
+	"Massachusetts"	"25"	"Female"	"F"	"Unintentional"	"1"	8964	21362717	42.0
+	"Massachusetts"	"25"	"Female"	"F"	"Suicide"	"2"	923	21362717	4.3
+	"Massachusetts"	"25"	"Female"	"F"	"Homicide"	"3"	207	21362717	1.0
+	"Massachusetts"	"25"	"Female"	"F"	"Undetermined "	"4"	202	21362717	0.9
+	"Massachusetts"	"25"	"Female"	"F"	"Legal Intervention / Operations of War"	"5"	Suppressed	21362717	Suppressed
+	"Massachusetts"	"25"	"Male"	"M"	"Unintentional"	"1"	17013	20293605	83.8
+	"Massachusetts"	"25"	"Male"	"M"	"Suicide"	"2"	2970	20293605	14.6
+	"Massachusetts"	"25"	"Male"	"M"	"Homicide"	"3"	804	20293605	4.0
+	"Massachusetts"	"25"	"Male"	"M"	"Undetermined "	"4"	310	20293605	1.5
+	"Massachusetts"	"25"	"Male"	"M"	"Legal Intervention / Operations of War"	"5"	33	20293605	0.2
+	"Michigan"	"26"	"Female"	"F"	"Unintentional"	"1"	12984	30386364	42.7
+	"Michigan"	"26"	"Female"	"F"	"Suicide"	"2"	1837	30386364	6.0
+	"Michigan"	"26"	"Female"	"F"	"Homicide"	"3"	893	30386364	2.9
+	"Michigan"	"26"	"Female"	"F"	"Undetermined "	"4"	830	30386364	2.7
+	"Michigan"	"26"	"Female"	"F"	"Legal Intervention / Operations of War"	"5"	Suppressed	30386364	Suppressed
+	"Michigan"	"26"	"Male"	"M"	"Unintentional"	"1"	23187	29685148	78.1
+	"Michigan"	"26"	"Male"	"M"	"Suicide"	"2"	7144	29685148	24.1
+	"Michigan"	"26"	"Male"	"M"	"Homicide"	"3"	3403	29685148	11.5
+	"Michigan"	"26"	"Male"	"M"	"Undetermined "	"4"	1614	29685148	5.4
+	"Michigan"	"26"	"Male"	"M"	"Legal Intervention / Operations of War"	"5"	52	29685148	0.2
+	"Minnesota"	"27"	"Female"	"F"	"Unintentional"	"1"	8091	17040432	47.5
+	"Minnesota"	"27"	"Female"	"F"	"Suicide"	"2"	999	17040432	5.9
+	"Minnesota"	"27"	"Female"	"F"	"Homicide"	"3"	260	17040432	1.5
+	"Minnesota"	"27"	"Female"	"F"	"Undetermined "	"4"	170	17040432	1.0
+	"Minnesota"	"27"	"Female"	"F"	"Legal Intervention / Operations of War"	"5"	Suppressed	17040432	Suppressed
+	"Minnesota"	"27"	"Male"	"M"	"Unintentional"	"1"	12241	17030210	71.9
+	"Minnesota"	"27"	"Male"	"M"	"Suicide"	"2"	3808	17030210	22.4
+	"Minnesota"	"27"	"Male"	"M"	"Homicide"	"3"	850	17030210	5.0
+	"Minnesota"	"27"	"Male"	"M"	"Undetermined "	"4"	285	17030210	1.7
+	"Minnesota"	"27"	"Male"	"M"	"Legal Intervention / Operations of War"	"5"	80	17030210	0.5
+	"Mississippi"	"28"	"Female"	"F"	"Unintentional"	"1"	4431	9143505	48.5
+	"Mississippi"	"28"	"Female"	"F"	"Suicide"	"2"	496	9143505	5.4
+	"Mississippi"	"28"	"Female"	"F"	"Homicide"	"3"	565	9143505	6.2
+	"Mississippi"	"28"	"Female"	"F"	"Undetermined "	"4"	110	9143505	1.2
+	"Mississippi"	"28"	"Female"	"F"	"Legal Intervention / Operations of War"	"5"	Suppressed	9143505	Suppressed
+	"Mississippi"	"28"	"Male"	"M"	"Unintentional"	"1"	8534	8615672	99.1
+	"Mississippi"	"28"	"Male"	"M"	"Suicide"	"2"	2125	8615672	24.7
+	"Mississippi"	"28"	"Male"	"M"	"Homicide"	"3"	2602	8615672	30.2
+	"Mississippi"	"28"	"Male"	"M"	"Undetermined "	"4"	209	8615672	2.4
+	"Mississippi"	"28"	"Male"	"M"	"Legal Intervention / Operations of War"	"5"	43	8615672	0.5
+	"Missouri"	"29"	"Female"	"F"	"Unintentional"	"1"	9494	18762702	50.6
+	"Missouri"	"29"	"Female"	"F"	"Suicide"	"2"	1336	18762702	7.1
+	"Missouri"	"29"	"Female"	"F"	"Homicide"	"3"	861	18762702	4.6
+	"Missouri"	"29"	"Female"	"F"	"Undetermined "	"4"	222	18762702	1.2
+	"Missouri"	"29"	"Female"	"F"	"Legal Intervention / Operations of War"	"5"	Suppressed	18762702	Suppressed
+	"Missouri"	"29"	"Male"	"M"	"Unintentional"	"1"	17219	18195026	94.6
+	"Missouri"	"29"	"Male"	"M"	"Suicide"	"2"	5699	18195026	31.3
+	"Missouri"	"29"	"Male"	"M"	"Homicide"	"3"	3300	18195026	18.1
+	"Missouri"	"29"	"Male"	"M"	"Undetermined "	"4"	372	18195026	2.0
+	"Missouri"	"29"	"Male"	"M"	"Legal Intervention / Operations of War"	"5"	84	18195026	0.5
+	"Montana"	"30"	"Female"	"F"	"Unintentional"	"1"	1643	3251534	50.5
+	"Montana"	"30"	"Female"	"F"	"Suicide"	"2"	376	3251534	11.6
+	"Montana"	"30"	"Female"	"F"	"Homicide"	"3"	95	3251534	2.9
+	"Montana"	"30"	"Female"	"F"	"Undetermined "	"4"	41	3251534	1.3
+	"Montana"	"30"	"Female"	"F"	"Legal Intervention / Operations of War"	"5"	Suppressed	3251534	Suppressed
+	"Montana"	"30"	"Male"	"M"	"Unintentional"	"1"	2780	3320076	83.7
+	"Montana"	"30"	"Male"	"M"	"Suicide"	"2"	1467	3320076	44.2
+	"Montana"	"30"	"Male"	"M"	"Homicide"	"3"	204	3320076	6.1
+	"Montana"	"30"	"Male"	"M"	"Undetermined "	"4"	73	3320076	2.2
+	"Montana"	"30"	"Male"	"M"	"Legal Intervention / Operations of War"	"5"	39	3320076	1.2
+	"Nebraska"	"31"	"Female"	"F"	"Unintentional"	"1"	1949	5841362	33.4
+	"Nebraska"	"31"	"Female"	"F"	"Suicide"	"2"	313	5841362	5.4
+	"Nebraska"	"31"	"Female"	"F"	"Homicide"	"3"	95	5841362	1.6
+	"Nebraska"	"31"	"Female"	"F"	"Undetermined "	"4"	30	5841362	0.5
+	"Nebraska"	"31"	"Female"	"F"	"Legal Intervention / Operations of War"	"5"	Suppressed	5841362	Suppressed
+	"Nebraska"	"31"	"Male"	"M"	"Unintentional"	"1"	3387	5869860	57.7
+	"Nebraska"	"31"	"Male"	"M"	"Suicide"	"2"	1428	5869860	24.3
+	"Nebraska"	"31"	"Male"	"M"	"Homicide"	"3"	281	5869860	4.8
+	"Nebraska"	"31"	"Male"	"M"	"Undetermined "	"4"	73	5869860	1.2
+	"Nebraska"	"31"	"Male"	"M"	"Legal Intervention / Operations of War"	"5"	20	5869860	0.3
+	"Nevada"	"32"	"Female"	"F"	"Unintentional"	"1"	3764	9333919	40.3
+	"Nevada"	"32"	"Female"	"F"	"Suicide"	"2"	892	9333919	9.6
+	"Nevada"	"32"	"Female"	"F"	"Homicide"	"3"	309	9333919	3.3
+	"Nevada"	"32"	"Female"	"F"	"Undetermined "	"4"	102	9333919	1.1
+	"Nevada"	"32"	"Female"	"F"	"Legal Intervention / Operations of War"	"5"	Suppressed	9333919	Suppressed
+	"Nevada"	"32"	"Male"	"M"	"Unintentional"	"1"	7621	9434827	80.8
+	"Nevada"	"32"	"Male"	"M"	"Suicide"	"2"	3089	9434827	32.7
+	"Nevada"	"32"	"Male"	"M"	"Homicide"	"3"	1065	9434827	11.3
+	"Nevada"	"32"	"Male"	"M"	"Undetermined "	"4"	154	9434827	1.6
+	"Nevada"	"32"	"Male"	"M"	"Legal Intervention / Operations of War"	"5"	72	9434827	0.8
+	"New Hampshire"	"33"	"Female"	"F"	"Unintentional"	"1"	2092	4155034	50.3
+	"New Hampshire"	"33"	"Female"	"F"	"Suicide"	"2"	298	4155034	7.2
+	"New Hampshire"	"33"	"Female"	"F"	"Homicide"	"3"	57	4155034	1.4
+	"New Hampshire"	"33"	"Female"	"F"	"Undetermined "	"4"	25	4155034	0.6
+	"New Hampshire"	"33"	"Female"	"F"	"Legal Intervention / Operations of War"	"5"	Suppressed	4155034	Suppressed
+	"New Hampshire"	"33"	"Male"	"M"	"Unintentional"	"1"	3609	4113687	87.7
+	"New Hampshire"	"33"	"Male"	"M"	"Suicide"	"2"	1161	4113687	28.2
+	"New Hampshire"	"33"	"Male"	"M"	"Homicide"	"3"	85	4113687	2.1
+	"New Hampshire"	"33"	"Male"	"M"	"Undetermined "	"4"	39	4113687	0.9
+	"New Hampshire"	"33"	"Male"	"M"	"Legal Intervention / Operations of War"	"5"	26	4113687	0.6
+	"New Jersey"	"34"	"Female"	"F"	"Unintentional"	"1"	8851	27757653	31.9
+	"New Jersey"	"34"	"Female"	"F"	"Suicide"	"2"	996	27757653	3.6
+	"New Jersey"	"34"	"Female"	"F"	"Homicide"	"3"	385	27757653	1.4
+	"New Jersey"	"34"	"Female"	"F"	"Undetermined "	"4"	141	27757653	0.5
+	"New Jersey"	"34"	"Female"	"F"	"Legal Intervention / Operations of War"	"5"	0	27757653	Unreliable
+	"New Jersey"	"34"	"Male"	"M"	"Unintentional"	"1"	19983	26735098	74.7
+	"New Jersey"	"34"	"Male"	"M"	"Suicide"	"2"	3389	26735098	12.7
+	"New Jersey"	"34"	"Male"	"M"	"Homicide"	"3"	1609	26735098	6.0
+	"New Jersey"	"34"	"Male"	"M"	"Undetermined "	"4"	290	26735098	1.1
+	"New Jersey"	"34"	"Male"	"M"	"Legal Intervention / Operations of War"	"5"	28	26735098	0.1
+	"New Mexico"	"35"	"Female"	"F"	"Unintentional"	"1"	3731	6368088	58.6
+	"New Mexico"	"35"	"Female"	"F"	"Suicide"	"2"	639	6368088	10.0
+	"New Mexico"	"35"	"Female"	"F"	"Homicide"	"3"	332	6368088	5.2
+	"New Mexico"	"35"	"Female"	"F"	"Undetermined "	"4"	80	6368088	1.3
+	"New Mexico"	"35"	"Female"	"F"	"Legal Intervention / Operations of War"	"5"	Suppressed	6368088	Suppressed
+	"New Mexico"	"35"	"Male"	"M"	"Unintentional"	"1"	7672	6274080	122.3
+	"New Mexico"	"35"	"Male"	"M"	"Suicide"	"2"	2473	6274080	39.4
+	"New Mexico"	"35"	"Male"	"M"	"Homicide"	"3"	1215	6274080	19.4
+	"New Mexico"	"35"	"Male"	"M"	"Undetermined "	"4"	177	6274080	2.8
+	"New Mexico"	"35"	"Male"	"M"	"Legal Intervention / Operations of War"	"5"	116	6274080	1.8
+	"New York"	"36"	"Female"	"F"	"Unintentional"	"1"	17626	60212920	29.3
+	"New York"	"36"	"Female"	"F"	"Suicide"	"2"	2317	60212920	3.8
+	"New York"	"36"	"Female"	"F"	"Homicide"	"3"	849	60212920	1.4
+	"New York"	"36"	"Female"	"F"	"Undetermined "	"4"	671	60212920	1.1
+	"New York"	"36"	"Female"	"F"	"Legal Intervention / Operations of War"	"5"	Suppressed	60212920	Suppressed
+	"New York"	"36"	"Male"	"M"	"Unintentional"	"1"	37640	57203906	65.8
+	"New York"	"36"	"Male"	"M"	"Suicide"	"2"	7895	57203906	13.8
+	"New York"	"36"	"Male"	"M"	"Homicide"	"3"	3754	57203906	6.6
+	"New York"	"36"	"Male"	"M"	"Undetermined "	"4"	1371	57203906	2.4
+	"New York"	"36"	"Male"	"M"	"Legal Intervention / Operations of War"	"5"	93	57203906	0.2
+	"North Carolina"	"37"	"Female"	"F"	"Unintentional"	"1"	15761	32561840	48.4
+	"North Carolina"	"37"	"Female"	"F"	"Suicide"	"2"	1879	32561840	5.8
+	"North Carolina"	"37"	"Female"	"F"	"Homicide"	"3"	987	32561840	3.0
+	"North Carolina"	"37"	"Female"	"F"	"Undetermined "	"4"	241	32561840	0.7
+	"North Carolina"	"37"	"Female"	"F"	"Legal Intervention / Operations of War"	"5"	Suppressed	32561840	Suppressed
+	"North Carolina"	"37"	"Male"	"M"	"Unintentional"	"1"	29291	30996313	94.5
+	"North Carolina"	"37"	"Male"	"M"	"Suicide"	"2"	7073	30996313	22.8
+	"North Carolina"	"37"	"Male"	"M"	"Homicide"	"3"	4083	30996313	13.2
+	"North Carolina"	"37"	"Male"	"M"	"Undetermined "	"4"	336	30996313	1.1
+	"North Carolina"	"37"	"Male"	"M"	"Legal Intervention / Operations of War"	"5"	162	30996313	0.5
+	"North Dakota"	"38"	"Female"	"F"	"Unintentional"	"1"	897	2253426	39.8
+	"North Dakota"	"38"	"Female"	"F"	"Suicide"	"2"	169	2253426	7.5
+	"North Dakota"	"38"	"Female"	"F"	"Homicide"	"3"	39	2253426	1.7
+	"North Dakota"	"38"	"Female"	"F"	"Undetermined "	"4"	23	2253426	1.0
+	"North Dakota"	"38"	"Female"	"F"	"Legal Intervention / Operations of War"	"5"	0	2253426	Unreliable
+	"North Dakota"	"38"	"Male"	"M"	"Unintentional"	"1"	1612	2372157	68.0
+	"North Dakota"	"38"	"Male"	"M"	"Suicide"	"2"	716	2372157	30.2
+	"North Dakota"	"38"	"Male"	"M"	"Homicide"	"3"	108	2372157	4.6
+	"North Dakota"	"38"	"Male"	"M"	"Undetermined "	"4"	43	2372157	1.8
+	"North Dakota"	"38"	"Male"	"M"	"Legal Intervention / Operations of War"	"5"	Suppressed	2372157	Suppressed
+	"Ohio"	"39"	"Female"	"F"	"Unintentional"	"1"	19483	35765297	54.5
+	"Ohio"	"39"	"Female"	"F"	"Suicide"	"2"	2074	35765297	5.8
+	"Ohio"	"39"	"Female"	"F"	"Homicide"	"3"	1094	35765297	3.1
+	"Ohio"	"39"	"Female"	"F"	"Undetermined "	"4"	266	35765297	0.7
+	"Ohio"	"39"	"Female"	"F"	"Legal Intervention / Operations of War"	"5"	13	35765297	Unreliable
+	"Ohio"	"39"	"Male"	"M"	"Unintentional"	"1"	34987	34628472	101.0
+	"Ohio"	"39"	"Male"	"M"	"Suicide"	"2"	8570	34628472	24.7
+	"Ohio"	"39"	"Male"	"M"	"Homicide"	"3"	4212	34628472	12.2
+	"Ohio"	"39"	"Male"	"M"	"Undetermined "	"4"	426	34628472	1.2
+	"Ohio"	"39"	"Male"	"M"	"Legal Intervention / Operations of War"	"5"	112	34628472	0.3
+	"Oklahoma"	"40"	"Female"	"F"	"Unintentional"	"1"	6639	12050671	55.1
+	"Oklahoma"	"40"	"Female"	"F"	"Suicide"	"2"	1011	12050671	8.4
+	"Oklahoma"	"40"	"Female"	"F"	"Homicide"	"3"	430	12050671	3.6
+	"Oklahoma"	"40"	"Female"	"F"	"Undetermined "	"4"	153	12050671	1.3
+	"Oklahoma"	"40"	"Female"	"F"	"Legal Intervention / Operations of War"	"5"	Suppressed	12050671	Suppressed
+	"Oklahoma"	"40"	"Male"	"M"	"Unintentional"	"1"	10985	11890425	92.4
+	"Oklahoma"	"40"	"Male"	"M"	"Suicide"	"2"	4091	11890425	34.4
+	"Oklahoma"	"40"	"Male"	"M"	"Homicide"	"3"	1462	11890425	12.3
+	"Oklahoma"	"40"	"Male"	"M"	"Undetermined "	"4"	279	11890425	2.3
+	"Oklahoma"	"40"	"Male"	"M"	"Legal Intervention / Operations of War"	"5"	16	11890425	Unreliable
+	"Oregon"	"41"	"Female"	"F"	"Unintentional"	"1"	6007	12756704	47.1
+	"Oregon"	"41"	"Female"	"F"	"Suicide"	"2"	1193	12756704	9.4
+	"Oregon"	"41"	"Female"	"F"	"Homicide"	"3"	237	12756704	1.9
+	"Oregon"	"41"	"Female"	"F"	"Undetermined "	"4"	124	12756704	1.0
+	"Oregon"	"41"	"Female"	"F"	"Legal Intervention / Operations of War"	"5"	Suppressed	12756704	Suppressed
+	"Oregon"	"41"	"Male"	"M"	"Unintentional"	"1"	10761	12612903	85.3
+	"Oregon"	"41"	"Male"	"M"	"Suicide"	"2"	4050	12612903	32.1
+	"Oregon"	"41"	"Male"	"M"	"Homicide"	"3"	752	12612903	6.0
+	"Oregon"	"41"	"Male"	"M"	"Undetermined "	"4"	222	12612903	1.8
+	"Oregon"	"41"	"Male"	"M"	"Legal Intervention / Operations of War"	"5"	97	12612903	0.8
+	"Pennsylvania"	"42"	"Female"	"F"	"Unintentional"	"1"	19853	39278983	50.5
+	"Pennsylvania"	"42"	"Female"	"F"	"Suicide"	"2"	2284	39278983	5.8
+	"Pennsylvania"	"42"	"Female"	"F"	"Homicide"	"3"	1007	39278983	2.6
+	"Pennsylvania"	"42"	"Female"	"F"	"Undetermined "	"4"	347	39278983	0.9
+	"Pennsylvania"	"42"	"Female"	"F"	"Legal Intervention / Operations of War"	"5"	10	39278983	Unreliable
+	"Pennsylvania"	"42"	"Male"	"M"	"Unintentional"	"1"	36746	38011067	96.7
+	"Pennsylvania"	"42"	"Male"	"M"	"Suicide"	"2"	9136	38011067	24.0
+	"Pennsylvania"	"42"	"Male"	"M"	"Homicide"	"3"	4573	38011067	12.0
+	"Pennsylvania"	"42"	"Male"	"M"	"Undetermined "	"4"	601	38011067	1.6
+	"Pennsylvania"	"42"	"Male"	"M"	"Legal Intervention / Operations of War"	"5"	96	38011067	0.3
+	"Rhode Island"	"44"	"Female"	"F"	"Unintentional"	"1"	1770	3302993	53.6
+	"Rhode Island"	"44"	"Female"	"F"	"Suicide"	"2"	169	3302993	5.1
+	"Rhode Island"	"44"	"Female"	"F"	"Homicide"	"3"	38	3302993	1.2
+	"Rhode Island"	"44"	"Female"	"F"	"Undetermined "	"4"	35	3302993	1.1
+	"Rhode Island"	"44"	"Female"	"F"	"Legal Intervention / Operations of War"	"5"	Suppressed	3302993	Suppressed
+	"Rhode Island"	"44"	"Male"	"M"	"Unintentional"	"1"	2949	3156114	93.4
+	"Rhode Island"	"44"	"Male"	"M"	"Suicide"	"2"	509	3156114	16.1
+	"Rhode Island"	"44"	"Male"	"M"	"Homicide"	"3"	122	3156114	3.9
+	"Rhode Island"	"44"	"Male"	"M"	"Undetermined "	"4"	44	3156114	1.4
+	"Rhode Island"	"44"	"Male"	"M"	"Legal Intervention / Operations of War"	"5"	Suppressed	3156114	Suppressed
+	"South Carolina"	"45"	"Female"	"F"	"Unintentional"	"1"	8726	16111027	54.2
+	"South Carolina"	"45"	"Female"	"F"	"Suicide"	"2"	1022	16111027	6.3
+	"South Carolina"	"45"	"Female"	"F"	"Homicide"	"3"	673	16111027	4.2
+	"South Carolina"	"45"	"Female"	"F"	"Undetermined "	"4"	97	16111027	0.6
+	"South Carolina"	"45"	"Female"	"F"	"Legal Intervention / Operations of War"	"5"	Suppressed	16111027	Suppressed
+	"South Carolina"	"45"	"Male"	"M"	"Unintentional"	"1"	16417	15186748	108.1
+	"South Carolina"	"45"	"Male"	"M"	"Suicide"	"2"	3982	15186748	26.2
+	"South Carolina"	"45"	"Male"	"M"	"Homicide"	"3"	2773	15186748	18.3
+	"South Carolina"	"45"	"Male"	"M"	"Undetermined "	"4"	161	15186748	1.1
+	"South Carolina"	"45"	"Male"	"M"	"Legal Intervention / Operations of War"	"5"	44	15186748	0.3
+	"South Dakota"	"46"	"Female"	"F"	"Unintentional"	"1"	1286	2656220	48.4
+	"South Dakota"	"46"	"Female"	"F"	"Suicide"	"2"	248	2656220	9.3
+	"South Dakota"	"46"	"Female"	"F"	"Homicide"	"3"	61	2656220	2.3
+	"South Dakota"	"46"	"Female"	"F"	"Undetermined "	"4"	15	2656220	Unreliable
+	"South Dakota"	"46"	"Female"	"F"	"Legal Intervention / Operations of War"	"5"	0	2656220	Unreliable
+	"South Dakota"	"46"	"Male"	"M"	"Unintentional"	"1"	1985	2727909	72.8
+	"South Dakota"	"46"	"Male"	"M"	"Suicide"	"2"	863	2727909	31.6
+	"South Dakota"	"46"	"Male"	"M"	"Homicide"	"3"	191	2727909	7.0
+	"South Dakota"	"46"	"Male"	"M"	"Undetermined "	"4"	31	2727909	1.1
+	"South Dakota"	"46"	"Male"	"M"	"Legal Intervention / Operations of War"	"5"	26	2727909	1.0
+	"Tennessee"	"47"	"Female"	"F"	"Unintentional"	"1"	12689	21268407	59.7
+	"Tennessee"	"47"	"Female"	"F"	"Suicide"	"2"	1546	21268407	7.3
+	"Tennessee"	"47"	"Female"	"F"	"Homicide"	"3"	853	21268407	4.0
+	"Tennessee"	"47"	"Female"	"F"	"Undetermined "	"4"	270	21268407	1.3
+	"Tennessee"	"47"	"Female"	"F"	"Legal Intervention / Operations of War"	"5"	Suppressed	21268407	Suppressed
+	"Tennessee"	"47"	"Male"	"M"	"Unintentional"	"1"	23837	20370657	117.0
+	"Tennessee"	"47"	"Male"	"M"	"Suicide"	"2"	5800	20370657	28.5
+	"Tennessee"	"47"	"Male"	"M"	"Homicide"	"3"	3425	20370657	16.8
+	"Tennessee"	"47"	"Male"	"M"	"Undetermined "	"4"	424	20370657	2.1
+	"Tennessee"	"47"	"Male"	"M"	"Legal Intervention / Operations of War"	"5"	75	20370657	0.4
+	"Texas"	"48"	"Female"	"F"	"Unintentional"	"1"	25993	88903928	29.2
+	"Texas"	"48"	"Female"	"F"	"Suicide"	"2"	5052	88903928	5.7
+	"Texas"	"48"	"Female"	"F"	"Homicide"	"3"	2575	88903928	2.9
+	"Texas"	"48"	"Female"	"F"	"Undetermined "	"4"	572	88903928	0.6
+	"Texas"	"48"	"Female"	"F"	"Legal Intervention / Operations of War"	"5"	30	88903928	0.0
+	"Texas"	"48"	"Male"	"M"	"Unintentional"	"1"	54144	88215371	61.4
+	"Texas"	"48"	"Male"	"M"	"Suicide"	"2"	19636	88215371	22.3
+	"Texas"	"48"	"Male"	"M"	"Homicide"	"3"	9719	88215371	11.0
+	"Texas"	"48"	"Male"	"M"	"Undetermined "	"4"	1048	88215371	1.2
+	"Texas"	"48"	"Male"	"M"	"Legal Intervention / Operations of War"	"5"	446	88215371	0.5
+	"Utah"	"49"	"Female"	"F"	"Unintentional"	"1"	3157	9770162	32.3
+	"Utah"	"49"	"Female"	"F"	"Suicide"	"2"	868	9770162	8.9
+	"Utah"	"49"	"Female"	"F"	"Homicide"	"3"	123	9770162	1.3
+	"Utah"	"49"	"Female"	"F"	"Undetermined "	"4"	171	9770162	1.8
+	"Utah"	"49"	"Female"	"F"	"Legal Intervention / Operations of War"	"5"	0	9770162	Unreliable
+	"Utah"	"49"	"Male"	"M"	"Unintentional"	"1"	5555	9983289	55.6
+	"Utah"	"49"	"Male"	"M"	"Suicide"	"2"	3169	9983289	31.7
+	"Utah"	"49"	"Male"	"M"	"Homicide"	"3"	360	9983289	3.6
+	"Utah"	"49"	"Male"	"M"	"Undetermined "	"4"	181	9983289	1.8
+	"Utah"	"49"	"Male"	"M"	"Legal Intervention / Operations of War"	"5"	67	9983289	0.7
+	"Vermont"	"50"	"Female"	"F"	"Unintentional"	"1"	1151	1923862	59.8
+	"Vermont"	"50"	"Female"	"F"	"Suicide"	"2"	156	1923862	8.1
+	"Vermont"	"50"	"Female"	"F"	"Homicide"	"3"	26	1923862	1.4
+	"Vermont"	"50"	"Female"	"F"	"Undetermined "	"4"	53	1923862	2.8
+	"Vermont"	"50"	"Female"	"F"	"Legal Intervention / Operations of War"	"5"	0	1923862	Unreliable
+	"Vermont"	"50"	"Male"	"M"	"Unintentional"	"1"	1864	1889871	98.6
+	"Vermont"	"50"	"Male"	"M"	"Suicide"	"2"	591	1889871	31.3
+	"Vermont"	"50"	"Male"	"M"	"Homicide"	"3"	62	1889871	3.3
+	"Vermont"	"50"	"Male"	"M"	"Undetermined "	"4"	52	1889871	2.8
+	"Vermont"	"50"	"Male"	"M"	"Legal Intervention / Operations of War"	"5"	Suppressed	1889871	Suppressed
+	"Virginia"	"51"	"Female"	"F"	"Unintentional"	"1"	9656	26184606	36.9
+	"Virginia"	"51"	"Female"	"F"	"Suicide"	"2"	1552	26184606	5.9
+	"Virginia"	"51"	"Female"	"F"	"Homicide"	"3"	646	26184606	2.5
+	"Virginia"	"51"	"Female"	"F"	"Undetermined "	"4"	127	26184606	0.5
+	"Virginia"	"51"	"Female"	"F"	"Legal Intervention / Operations of War"	"5"	Suppressed	26184606	Suppressed
+	"Virginia"	"51"	"Male"	"M"	"Unintentional"	"1"	18781	25500752	73.6
+	"Virginia"	"51"	"Male"	"M"	"Suicide"	"2"	5672	25500752	22.2
+	"Virginia"	"51"	"Male"	"M"	"Homicide"	"3"	2581	25500752	10.1
+	"Virginia"	"51"	"Male"	"M"	"Undetermined "	"4"	272	25500752	1.1
+	"Virginia"	"51"	"Male"	"M"	"Legal Intervention / Operations of War"	"5"	57	25500752	0.2
+	"Washington"	"53"	"Female"	"F"	"Unintentional"	"1"	9790	22985351	42.6
+	"Washington"	"53"	"Female"	"F"	"Suicide"	"2"	1651	22985351	7.2
+	"Washington"	"53"	"Female"	"F"	"Homicide"	"3"	483	22985351	2.1
+	"Washington"	"53"	"Female"	"F"	"Undetermined "	"4"	245	22985351	1.1
+	"Washington"	"53"	"Female"	"F"	"Legal Intervention / Operations of War"	"5"	Suppressed	22985351	Suppressed
+	"Washington"	"53"	"Male"	"M"	"Unintentional"	"1"	18292	23196103	78.9
+	"Washington"	"53"	"Male"	"M"	"Suicide"	"2"	5835	23196103	25.2
+	"Washington"	"53"	"Male"	"M"	"Homicide"	"3"	1539	23196103	6.6
+	"Washington"	"53"	"Male"	"M"	"Undetermined "	"4"	372	23196103	1.6
+	"Washington"	"53"	"Male"	"M"	"Legal Intervention / Operations of War"	"5"	140	23196103	0.6
+	"West Virginia"	"54"	"Female"	"F"	"Unintentional"	"1"	4414	5385529	82.0
+	"West Virginia"	"54"	"Female"	"F"	"Suicide"	"2"	414	5385529	7.7
+	"West Virginia"	"54"	"Female"	"F"	"Homicide"	"3"	162	5385529	3.0
+	"West Virginia"	"54"	"Female"	"F"	"Undetermined "	"4"	79	5385529	1.5
+	"West Virginia"	"54"	"Female"	"F"	"Legal Intervention / Operations of War"	"5"	0	5385529	Unreliable
+	"West Virginia"	"54"	"Male"	"M"	"Unintentional"	"1"	8290	5325423	155.7
+	"West Virginia"	"54"	"Male"	"M"	"Suicide"	"2"	1742	5325423	32.7
+	"West Virginia"	"54"	"Male"	"M"	"Homicide"	"3"	448	5325423	8.4
+	"West Virginia"	"54"	"Male"	"M"	"Undetermined "	"4"	141	5325423	2.6
+	"West Virginia"	"54"	"Male"	"M"	"Legal Intervention / Operations of War"	"5"	25	5325423	0.5
+	"Wisconsin"	"55"	"Female"	"F"	"Unintentional"	"1"	11020	17606165	62.6
+	"Wisconsin"	"55"	"Female"	"F"	"Suicide"	"2"	1083	17606165	6.2
+	"Wisconsin"	"55"	"Female"	"F"	"Homicide"	"3"	416	17606165	2.4
+	"Wisconsin"	"55"	"Female"	"F"	"Undetermined "	"4"	167	17606165	0.9
+	"Wisconsin"	"55"	"Female"	"F"	"Legal Intervention / Operations of War"	"5"	Suppressed	17606165	Suppressed
+	"Wisconsin"	"55"	"Male"	"M"	"Unintentional"	"1"	16044	17561894	91.4
+	"Wisconsin"	"55"	"Male"	"M"	"Suicide"	"2"	4265	17561894	24.3
+	"Wisconsin"	"55"	"Male"	"M"	"Homicide"	"3"	1307	17561894	7.4
+	"Wisconsin"	"55"	"Male"	"M"	"Undetermined "	"4"	220	17561894	1.3
+	"Wisconsin"	"55"	"Male"	"M"	"Legal Intervention / Operations of War"	"5"	75	17561894	0.4
+	"Wyoming"	"56"	"Female"	"F"	"Unintentional"	"1"	812	1703717	47.7
+	"Wyoming"	"56"	"Female"	"F"	"Suicide"	"2"	171	1703717	10.0
+	"Wyoming"	"56"	"Female"	"F"	"Homicide"	"3"	43	1703717	2.5
+	"Wyoming"	"56"	"Female"	"F"	"Undetermined "	"4"	15	1703717	Unreliable
+	"Wyoming"	"56"	"Female"	"F"	"Legal Intervention / Operations of War"	"5"	Suppressed	1703717	Suppressed
+	"Wyoming"	"56"	"Male"	"M"	"Unintentional"	"1"	1467	1779348	82.4
+	"Wyoming"	"56"	"Male"	"M"	"Suicide"	"2"	830	1779348	46.6
+	"Wyoming"	"56"	"Male"	"M"	"Homicide"	"3"	80	1779348	4.5
+	"Wyoming"	"56"	"Male"	"M"	"Undetermined "	"4"	23	1779348	1.3
+	"Wyoming"	"56"	"Male"	"M"	"Legal Intervention / Operations of War"	"5"	14	1779348	Unreliable
+"---"
+"Dataset: Underlying Cause of Death, 2018-2023, Single Race"
+"Query Parameters:"
+"Title: CDC - State Gender Intent External"
+"Injury Intent: Unintentional; Suicide; Homicide; Undetermined ; Legal Intervention / Operations of War"
+"Group By: State; Gender; Injury Intent"
+"Show Totals: Disabled"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd-expanded.html for more information."
+"---"
+"Query Date: Jan 29, 2025 2:24:59 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality 2018-2023 on CDC WONDER Online Database, released in 2024. Data are from the Multiple Cause of Death Files,"
+"2018-2023, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/ucd-icd10-expanded.html on Jan 29, 2025 2:24:59 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"---"
+Caveats:
+"1. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd-expanded.html#Assurance of Confidentiality."
+"2. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd-expanded.html#Unreliable."
+"3. The population figures for years 2023 are single-race estimates of the July 1 resident population, from the Vintage 2022"
+"postcensal series released by the Census Bureau on June 27, 2024. The 2023 series is based on the Modified Blended Base produced"
+"by the US Census Bureau in lieu of the April 1, 2020 decennial population count. The Modified Blended Base consists of the blend"
+"of Vintage 2020 postcensal population estimates for April 1, 2020, 2020 Demographic Analysis Estimates, and 2020 Census data"
+"from the internal Census Edited File (CEF). The population figures for years 2022 are single-race estimates of the July 1"
+"resident population, from the Vintage 2022 postcensal series released by the Census Bureau on June 22, 2023. The 2022 series is"
+"based on the Modified Blended Base produced by the US Census Bureau in lieu of the April 1, 2020 decennial population count. The"
+"Modified Blended Base consists of the blend of Vintage 2020 postcensal population estimates for April 1, 2020, 2020 Demographic"
+"Analysis Estimates, and 2020 Census data from the internal Census Edited File (CEF). The population figures for years 2021 are"
+"single-race estimates of the July 1 resident population, based on the Blended Base produced by the US Census Bureau in lieu of"
+"the April 1, 2020 decennial population count, from the Vintage 2021 postcensal series released by the Census Bureau on June 30,"
+"2022. The population figures for year 2020 are single-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series based on April 2010 Census, released by the Census Bureau on July 27, 2021. The population figures for year"
+"2019 are single-race estimates of the July 1 resident population, from the Vintage 2019 postcensal series based on April 2010"
+"Census, released by the Census Bureau on June 25, 2020. The population figures for year 2018 are single-race estimates of the"
+"July 1 resident population, from the Vintage 2018 postcensal series based on April 2010 Census, released by the Census Bureau on"
+"June 20, 2019. More information: http://wonder.cdc.gov/wonder/help/ucd-expanded.html#Population Data."
+"4. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd-expanded.html#Age"
+"Group."
+"5. Connecticut population estimates for 2022 and later years are reported for 9 planning regions as county equivalent areas,"
+"instead of the former 8 legacy counties in the Vintage 2022 postcensal series released by the Census Bureau on June 22, 2023,"
+"and in the Vintage 2023 postcensal series released by the Census Bureau on June 27, 2024 Populations estimates for the former"
+"counties are not available for 2022 and later years. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd-expanded.html#Connecticut-2022."

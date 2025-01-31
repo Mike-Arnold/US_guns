@@ -1,0 +1,85 @@
+
+# temp = all_death %>%
+#   filter(Gender == "Male", Injury.Intent == "Suicide") %>%
+#   mutate(Owners = Population * HFR)
+# 
+# sum(temp$Owners) / sum(temp$Population)
+
+
+
+
+
+
+
+
+
+###### female suicide ######
+
+female_suicide = all_death %>%
+  filter(Gender == "Female", Injury.Intent == "Suicide") %>%
+  merge(read.csv("fs_nudge.csv")) %>%
+  arrange(desc(Population)) %>%
+  mutate(Color = ifelse(Color == "light.color", light.color, dark.color))
+
+lm_model = lm(Rate ~ HFR, data = female_suicide, weights = Population)
+slope = coef(lm_model)[2]
+correlation = cor(female_suicide$HFR, female_suicide$Rate)
+
+ggplot(data = female_suicide, aes(x = HFR, y = Rate)) +
+  geom_abline(slope = slope, intercept = coef(lm_model)[1], 
+              color = red.color, linetype = "solid", linewidth=2) +
+  geom_point(aes(size = Population^.5), color = "black", shape = 21, fill = "#c0c0c0", stroke = .5) +
+  geom_text(aes(label = ST, color = Color), size = 3,
+            nudge_x = female_suicide$Label.x, 
+            nudge_y = female_suicide$Label.y) +
+  scale_y_continuous(breaks = seq(5, 11, by = 3)) +
+  scale_size_continuous(range = c(0, 20), guide = "none") +
+  scale_color_identity(guide="none") +
+  scatter.theme +
+  labs(x = "% live with gun", y = "Female suicide rate") +
+  annotate("text", x = .09, y = 11.5, size=5,
+           label = paste("Slope:", format(round(slope,2), nsmall=2, trim=T), 
+                         "\nCorrelation:", format(round(correlation,2), nsmall=2, trim=T)),
+           hjust = 0, vjust = 0.5, color=red.color) +
+  annotate("text", x = .1, y = 2.5, size = 2, color = light.color, hjust=0, vjust=0.5,
+           label = left.label) +
+  annotate("text", x = .45, y = 2.5, size = 2, color = light.color, hjust=0, vjust=0.5,
+           label = right.label) +
+  coord_cartesian(ylim = c(3.5, 12), clip = "off")
+
+ggsave("female_suicide.png", width=10, height=6)
+
+###### male suicide ######
+
+male_suicide = all_death %>%
+  filter(Gender == "Male", Injury.Intent == "Suicide") %>%
+  merge(read.csv("ms_nudge.csv")) %>%
+  arrange(desc(Population)) %>%
+  mutate(Color = ifelse(Color == "light.color", light.color, dark.color))
+
+lm_model = lm(Rate ~ HFR, data = male_suicide, weights = Population)
+slope = coef(lm_model)[2]
+correlation = cor(male_suicide$HFR, male_suicide$Rate)
+
+ggplot(data = male_suicide, aes(x = HFR, y = Rate)) +
+  geom_abline(slope = slope, intercept = coef(lm_model)[1], 
+              color = red.color, linetype = "solid", linewidth=2) +
+  geom_point(aes(size = Population^.5), color = "black", shape = 21, fill = "#c0c0c0", stroke = .5) +
+  geom_text(aes(label = ST, color = Color), size = 3,
+            nudge_x = male_suicide$Label.x, 
+            nudge_y = male_suicide$Label.y) +
+  scale_size_continuous(range = c(0, 20), guide = "none") +
+  scale_color_identity(guide="none") +
+  scatter.theme +
+  labs(x = "% live with gun", y = "Male suicide rate") +
+  annotate("text", x = .09, y = max(male_suicide$Rate)*.94, size=5,
+           label = paste("Slope:", format(round(slope,2), nsmall=2, trim=T), 
+                         "\nCorrelation:", format(round(correlation,2), nsmall=2, trim=T)),
+           hjust = 0, vjust = 0.5, color=red.color) +
+  annotate("text", x = .1, y = 8, size = 2, color = light.color, hjust=0, vjust=0.5,
+           label = left.label) +
+  annotate("text", x = .45, y = 8, size = 2, color = light.color, hjust=0, vjust=0.5,
+           label = right.label) +
+  coord_cartesian(ylim = c(12, 46), clip = "off")
+
+ggsave("male_suicide.png", width=10, height=6)

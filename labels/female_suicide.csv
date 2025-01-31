@@ -1,0 +1,51 @@
+State,Label.x,Label.y,Color
+Alabama,0,0.07,dark.color
+Alaska,0,-0.2,light.color
+Arizona,0,0,dark.color
+Arkansas,0,0,dark.color
+California,0,0,dark.color
+Colorado,0,0,dark.color
+Connecticut,0,0,dark.color
+Delaware,0,-0.2,light.color
+Florida,0,0,dark.color
+Georgia,0,0.5,light.color
+Hawaii,0,0,dark.color
+Idaho,0,0,dark.color
+Illinois,0,0,dark.color
+Indiana,0,0,dark.color
+Iowa,0,0,dark.color
+Kansas,0,0,dark.color
+Kentucky,0,0,dark.color
+Louisiana,0,-0.07,dark.color
+Maine,0,0.24,light.color
+Maryland,0,0,dark.color
+Massachusetts,0,0,dark.color
+Michigan,0,0.45,light.color
+Minnesota,0,-0.15,dark.color
+Mississippi,0,0,dark.color
+Missouri,0.004,-0.05,dark.color
+Montana,0,-0.3,light.color
+Nebraska,0,0,dark.color
+Nevada,0,0,dark.color
+New Hampshire,-0.0125,0,light.color
+New Jersey,0,0,dark.color
+New Mexico,0,0,dark.color
+New York,0,0,dark.color
+North Carolina,0,0,dark.color
+North Dakota,0,0.2,light.color
+Ohio,0,-0.2,dark.color
+Oklahoma,0,0,dark.color
+Oregon,0,0,dark.color
+Pennsylvania,0,-0.25,dark.color
+Rhode Island,-0.012,0,light.color
+South Carolina,0,0,dark.color
+South Dakota,0,-0.3,light.color
+Tennessee,0.005,-0.05,dark.color
+Texas,0,-0.25,dark.color
+Utah,0,0,dark.color
+Vermont,0,-0.2,light.color
+Virginia,0,0,dark.color
+Washington,0,0,dark.color
+West Virginia,0,0,dark.color
+Wisconsin,0,0,dark.color
+Wyoming,0,-0.2,light.color

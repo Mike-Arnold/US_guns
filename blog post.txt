@@ -1,0 +1,21 @@
+Men, women, guns and death
+
+This post compares rates of gun ownership and intentional deaths among US states.
+
+There is a very high correlation (78%) between high rates of gun ownership and male suicide. It is much higher than the correlation between guns and homicide of men (19%). People who use a gun to attempt suicide are more likely to die as a result, compared to other methods. Men are more likely to use a gun in such an attempt.[[1]](https://pubmed.ncbi.nlm.nih.gov/31791066/)
+
+The correlations of guns to female suicide and homicide are 60% and 44%, respectively (see bottom).
+
+Here, gun ownership data is from a 2016 RAND survey that asked people if they live with a gun in their home, even if the gun isn't theirs per se. States with few guns included New Jersey, Massachusetts, and Hawaii, all of which had only 9% with guns in home. Guns were most frequent in Montana (65%), followed by Wyoming (61%) and West Virginia (60%).
+
+Rates of death in these graphs are for the years 2018-2023, and represent the average number of deaths per 100,000 population.
+
+Mortality data is from the CDC using their "Wonder" page. For some rare causes of death, data from this page may be fragmented or uncategorized. But the large categories here are fairly complete. For the years examined, there were 136,257 homicides, 288,809 suicides and only 34,524 deaths of undetermined intent. Men died more often to these causes, both homicides (80% of the total) and suicides (again 80%). The data mentioned here and in the graphs include non-gun deaths.
+
+As far as murder, gun ownership not a good explanation for why men are killed. Outliers include Maryland, which has few people admitting to owning a gun on a survey, but a high rate of murder. Idaho has a lot of guns, but relatively few murders.
+
+There are some data points that point to confounding factors. Although the prevalence of guns predicts male suicide, only 58% of male suicides involved a gun. Contrast this with homicides, where 82% of homicides of men involved a gun. The percentage for female suicide is 33% and for female homicide, 64%. Clearly, the measurement of guns by asking people on a survey may not reflect the total reality.
+
+---
+
+Made in R with ggplot2. Data from the CDC 2018-2023 [[2]](wonder.cdc.gov/Deaths-by-Underlying-Cause.html) and RAND 2016.[[3]]((rand.org/pubs/tools/TL354.html)) I have also posted this on my blog: https://michaelarnoldgraphs.substack.com/p/men-women-guns-and-death
