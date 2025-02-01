@@ -65,7 +65,7 @@ scatter.theme = theme(
 left.label = paste0(
   "michaelarnoldgraphs.substack.com",
   "\nCircle size indicates state population. Correlation is weighted by population.",
-  "\nIncludes non-gun deaths. Gun data includes men and women.")
+  "\nRates are per 100,000. Includes non-gun deaths. Gun data includes men and women.")
 
 right.label = paste0(
   "Mortality data from CDC, 2018-2023 (wonder.cdc.gov/Deaths-by-Underlying-Cause.html)",
@@ -109,6 +109,7 @@ make_graph = function(gender, intent, nudge, y1, y2, y3) {
     geom_point(aes(size = Population^.5), color = "black", shape = 21, fill = "#c0c0c0", stroke = .5) +
     scale_size_continuous(range = c(0, 20), guide = "none") +
     scale_color_identity(guide="none") +
+    scale_x_continuous(labels = scales::percent) +
     scatter.theme +
     labs(x = "% live with gun", 
          y = paste(gender,lower.intent,"rate"))
